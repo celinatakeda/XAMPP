@@ -16,10 +16,7 @@ P - Perl
 ## Instalar o XAMPP
 https://www.apachefriends.org/pt_br/index.html
 
-## Bibliotecas jquery
-https://code.jquery.com
-
-Peguei a versão
+## Pegar o jquery
 
 https://code.jquery.com/jquery-3.6.0.min.js
 
