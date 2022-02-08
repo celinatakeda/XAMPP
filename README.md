@@ -1,16 +1,16 @@
 # Minha primeira aplicação com XAMPP
 
-XAMPP - servidor web
+**XAMPP** - servidor web
 
-X - para qualquer sistema operacional (windows, linux ou OS)
+**X** - para qualquer sistema operacional (windows, linux ou OS)
 
-A - Apache
+**A** - Apache
 
-M - MariaDB
+**M** - MariaDB
 
-P - PHP
+**P** - PHP
 
-P - Perl
+**P** - Perl
 
 
 ## Instalar o XAMPP
