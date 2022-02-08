@@ -20,9 +20,11 @@ https://www.apachefriends.org/pt_br/index.html
 https://code.jquery.com
 
 Peguei a versão
+
 https://code.jquery.com/jquery-3.6.0.min.js
 
 ## Links Úteis:
 
 https://jqueryui.com/
+
 https://www.w3schools.com/
