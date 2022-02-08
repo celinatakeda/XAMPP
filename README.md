@@ -13,10 +13,10 @@ P - PHP
 P - Perl
 
 
-## Para instalar o XAMPP
+## Instalar o XAMPP
 https://www.apachefriends.org/pt_br/index.html
 
-## Para pegar bibliotecas jquery
+## Bibliotecas jquery
 https://code.jquery.com
 
 Peguei a versão
