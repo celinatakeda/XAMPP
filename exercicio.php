@@ -14,8 +14,9 @@
   </script>
 </head>
 <body>
+<h1>Usando o jQuery UI Accordion</h1>
  
-<div id="accordion">
+<div id="accordion"> 
   <h3>Seção 1</h3>
   <div>
     <p>
